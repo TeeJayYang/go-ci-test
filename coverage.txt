@@ -1,0 +1,7 @@
+mode: atomic
+/home/teejayyang/git/go-ci-test/sort.go:3.30,4.18 1 1
+/home/teejayyang/git/go-ci-test/sort.go:7.2,7.34 1 1
+/home/teejayyang/git/go-ci-test/sort.go:4.18,6.3 1 0
+/home/teejayyang/git/go-ci-test/sort.go:7.34,8.35 1 5
+/home/teejayyang/git/go-ci-test/sort.go:8.35,9.27 1 25
+/home/teejayyang/git/go-ci-test/sort.go:9.27,13.5 3 7
